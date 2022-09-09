@@ -4,3 +4,4 @@ Good bye!
 Oh shit. Here we go again!!!
 Line from user 2.
 No conflict!
+line from user 2
